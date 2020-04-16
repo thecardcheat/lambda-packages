@@ -184,6 +184,13 @@ lambda_packages = {
         'python3.7': {
             'version': '1.3.3',
             'path': os.path.join(PACKAGES_DIR, 'xmlsec', 'python3.7-xmlsec-1.3.3.tar.gz')
+<<<<<<< Updated upstream
+=======
+        }
+        'python3.8': {
+            'version': '1.3.3',
+            'path': os.path.join(PACKAGES_DIR, 'xmlsec', 'python3.8-xmlsec-1.3.3.tar.gz')
+>>>>>>> Stashed changes
         }
     }
 }
